@@ -1,16 +1,51 @@
-## Hi there 👋
+👋 Hi there, I'm Sandra Queiroz  
 
-<!--
-**sandravivan/sandravivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌎 Based in California | 💻 Back-End Developer in training | 🐍 Python Enthusiast  
+
+
+
+---
+
+
+
+### About Me  
+
+- Transitioning from **Education** to **Technology**  
+
+- Passionate about **Continuous Learning**  
+
+- Exploring **Python**, **Git**, and the logic behind programming  
+
+- Building my journey through personal projects and studies  
+
+
+
+---
+
+
+
+### My Current Focus  
+
+📂 [Studies](https://github.com/sandravivan/studies) — Collection of projects and exercises from my learning journey.  
+
+
+
+---
+
+
+
+### Let's Connect  
+
+- [LinkedIn](https://www.linkedin.com/in/sandravivan)  
+
+- [GitHub](https://github.com/sandravivan)  
+
+
+
+---
+
+
+
+> “Learning never exhausts the mind.” — Leonardo da Vinci
